@@ -99,6 +99,7 @@ nprogress | 进度条控件 | [https://github.com/rstacruz/nprogress](https://gi
 ##### 系统架构图
 
 ![系统架构图](document/resource/mall_system_arch.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyujiarao%2Fmall.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyujiarao%2Fmall?ref=badge_shield)
 
 ##### 业务架构图
 
@@ -202,3 +203,7 @@ mall项目全套学习教程连载中，**关注公众号**第一时间获取。
 [Apache License 2.0](https://github.com/macrozheng/mall/blob/master/LICENSE)
 
 Copyright (c) 2018-2019 macrozheng
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyujiarao%2Fmall.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyujiarao%2Fmall?ref=badge_large)
